@@ -28,19 +28,17 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ## Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/swift/F05138" width="42" height="42" alt="Swift">
+  <img src="https://cdn.simpleicons.org/swift/F05138" width="42" height="42" align="middle" alt="Swift">
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" align="middle" alt="JavaScript">
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apple/8E8E93" width="42" height="42" alt="macOS">
+  <img src="assets/logic-pro.png" width="45" height="45" align="middle" alt="Logic Pro">
   &nbsp;&nbsp;
-  <img src="assets/logic-pro.png" width="42" height="42" alt="Logic Pro">
-  &nbsp;&nbsp;
-  <img src="assets/synthesizer-v.png" width="42" height="42" alt="Synthesizer V">
+  <img src="assets/synthesizer-v.png" width="51" height="51" align="middle" alt="Synthesizer V">
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/vocaloid6-light.png">
-    <img src="assets/vocaloid6-dark.png" width="108" alt="VOCALOID6">
+    <img src="assets/vocaloid6-dark.png" width="135" align="middle" alt="VOCALOID6">
   </picture>
 </p>
 
