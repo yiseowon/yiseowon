@@ -32,7 +32,7 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" align="middle" alt="JavaScript">
   &nbsp;&nbsp;
-  <img src="assets/logic-pro.png" width="45" height="45" align="middle" alt="Logic Pro">
+  <img src="assets/logic-pro.png" width="51" height="51" align="middle" alt="Logic Pro">
   &nbsp;&nbsp;
   <img src="assets/synthesizer-v.png" width="51" height="51" align="middle" alt="Synthesizer V">
   &nbsp;&nbsp;
