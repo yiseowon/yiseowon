@@ -5,7 +5,7 @@
 **Computer Science & Information Engineering**<br>
 Kunsan National University
 
-I enjoy building thoughtful software with Swift and exploring creative applications of synthesis technology.
+"I hate Claude Code"
 
 [![Email](https://img.shields.io/badge/Email-leeseowon%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:leeseowon@gmail.com)
 
