@@ -31,5 +31,8 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Synthesizer V](https://img.shields.io/badge/Synthesizer_V-6554C0?style=flat-square)
+![VOCALOID6](https://img.shields.io/badge/VOCALOID6-00A7E1?style=flat-square)
+![Logic Pro](https://img.shields.io/badge/Logic_Pro-111111?style=flat-square&logo=apple&logoColor=white)
 
 <sub>Currently interested in native macOS utilities and expressive media technology.</sub>
