@@ -14,7 +14,7 @@ Kunsan National University
 ## Focus
 
 ```text
-Swift Development  ·  Image Synthesis  ·  Vocal Synthesis
+Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ```
 
 ## Selected work
