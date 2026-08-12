@@ -31,8 +31,31 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Synthesizer V](https://img.shields.io/badge/Synthesizer_V-6554C0?style=flat-square)
-![VOCALOID6](https://img.shields.io/badge/VOCALOID6-00A7E1?style=flat-square)
-![Logic Pro](https://img.shields.io/badge/Logic_Pro-111111?style=flat-square&logo=apple&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://dreamtonics.com/synthesizerv/">
+        <img src="assets/synthesizer-v.png" width="48" alt="Synthesizer V logo"><br>
+        <sub><b>Synthesizer V</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.vocaloid.com/en/vocaloid6/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/vocaloid6-light.png">
+          <img src="assets/vocaloid6-dark.png" width="150" alt="VOCALOID6 logo">
+        </picture><br>
+        <sub><b>VOCALOID6</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.apple.com/logic-pro/">
+        <img src="assets/logic-pro.png" width="48" alt="Logic Pro logo"><br>
+        <sub><b>Logic Pro</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <sub>Currently interested in native macOS utilities and expressive media technology.</sub>
