@@ -47,6 +47,7 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ## Todo
 
 <!-- TODO:START -->
+- [ ] Opium 기기 자동 인식 구현
 - [ ] Opium 웹사이트 제작
 <!-- TODO:END -->
 
