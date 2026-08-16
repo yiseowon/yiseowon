@@ -47,7 +47,7 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 ## Todo
 
 <!-- TODO:START -->
-_nothing on the list right now_
+- [ ] 동기화 테스트
 <!-- TODO:END -->
 
 <sub><a href="https://yiseowon.github.io/yiseowon/todo/admin.html">edit</a></sub>
