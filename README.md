@@ -43,3 +43,9 @@ Image/Video/Vocal Synthesis  ·  Image Processing  ·  Swift Programming
 </p>
 
 <sub>Currently interested in native macOS utilities and expressive media technology.</sub>
+
+<p align="center">
+  <a href="https://yiseowon.github.io/yiseowon/todo/">
+    <img src="https://img.shields.io/badge/todo-000000?style=flat-square&logo=checkmarx&logoColor=white" alt="todo">
+  </a>
+</p>

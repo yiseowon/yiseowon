@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>todo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="dot"></span>todo</h1>
+  <ul id="list"></ul>
+  <div id="empty" class="empty" hidden>지금은 할 일이 없어요.</div>
+</div>
+
+<script>
+async function load() {
+  const res = await fetch("todo.json", { cache: "no-store" });
+  const items = await res.json();
+  const list = document.getElementById("list");
+  const empty = document.getElementById("empty");
+
+  if (items.length === 0) {
+    empty.hidden = false;
+    return;
+  }
+
+  for (const item of items) {
+    const li = document.createElement("li");
+    if (item.done) li.classList.add("done");
+    li.innerHTML = `
+      <input type="checkbox" disabled ${item.done ? "checked" : ""}>
+      <span class="text"></span>
+    `;
+    li.querySelector(".text").textContent = item.text;
+    list.appendChild(li);
+  }
+}
+
+load();
+</script>
+</body>
+</html>
