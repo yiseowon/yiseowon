@@ -1,0 +1,25 @@
+name: sync todo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - todo/todo.json
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: python3 scripts/sync_todo.py
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "sync todo list"
+          git push
